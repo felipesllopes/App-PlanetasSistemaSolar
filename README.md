@@ -16,4 +16,5 @@ https://user-images.githubusercontent.com/99768939/212192818-96938ceb-755f-4578-
 - @react-navigation/native
 - react-native-screens react-native-safe-area-context
 - @react-navigation/native-stack
+
 Check it out at: [ReactNavigation](https://reactnavigation.org/docs/getting-started/)
