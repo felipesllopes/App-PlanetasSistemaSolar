@@ -7,7 +7,6 @@ https://user-images.githubusercontent.com/99768939/212192818-96938ceb-755f-4578-
 
 ### 🛠 Used tools:
 - Node.JS
-- Expo
 - React Native
 - VS Code
 
