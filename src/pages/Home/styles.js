@@ -1,43 +1,48 @@
 import { StyleSheet } from "react-native";
 
 const styles = StyleSheet.create({
-    imgFundo: {
-        height: '100%',
-        flex: 1,
-    },
     container: {
         flex: 1,
-        padding: 5,
+        justifyContent: 'center',
     },
-    titulo: {
-        fontSize: 33,
+    tittle: {
+        fontSize: 44,
         textAlign: 'center',
         color: 'white',
         fontWeight: 'bold',
-        margin: 10,
-        marginVertical: 20,
+        marginBottom: 40,
+        alignContent: 'center',
+        marginHorizontal: 20,
     },
-    icone: {
-        flexDirection: 'row',
-        alignItems: 'center',
-        justifyContent: 'space-between',
-        borderWidth: 2,
+    imageDecoration: {
+        height: 173,
+        width: 277,
+        alignSelf: 'center',
+        borderWidth: 1,
         borderColor: 'white',
         borderRadius: 10,
-        margin: 10,
-        padding: 2,
-        backgroundColor: 'black',
     },
-    nomePlaneta: {
+    buttom: {
+        flexDirection: 'row',
+        alignItems: 'center',
+        justifyContent: 'center',
+        alignSelf: 'center',
+        backgroundColor: '#00BFDD',
+        borderRadius: 10,
+        borderWidth: 2,
+        width: 154,
+        paddingVertical: 6,
+        marginTop: 80,
+    },
+    textButtom: {
+        fontSize: 24,
+        fontWeight: 'bold',
         color: 'white',
-        fontSize: 19,
-        marginLeft: 15,
+        marginRight: 8,
     },
-    imgPlaneta: {
-        height: 50,
-        width: 50,
-        marginRight: 15,
-        margin: 5,
+    imgButtom: {
+        width: 29,
+        height: 27,
     }
 });
 
