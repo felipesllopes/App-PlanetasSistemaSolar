@@ -3,7 +3,7 @@
 ### About:
 This is an app that aims to show some information about the planets of the solar system.
 
-https://user-images.githubusercontent.com/99768939/212192818-96938ceb-755f-4578-b2f3-559cf7905e7e.mp4
+https://user-images.githubusercontent.com/99768939/215646991-09979d6f-7186-4ee8-a781-8589493e5a65.mp4
 
 ### 🛠 Used tools:
 - Node.JS
